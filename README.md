@@ -44,4 +44,7 @@ This project provides visual insights into how populations shifted between state
 - Custom Filters – For slicing by state, year, or migration type
 
 ## Previews
-[Dashboard Preview](images/migration-dashboard-preview.png)
+- [Statistics](https://github.com/javxks1/US-Migration-Trends/blob/main/Statistics.png)
+- [Migrations](https://github.com/javxks1/US-Migration-Trends/blob/main/Statistics.png)
+- [Migrations Source](https://github.com/javxks1/US-Migration-Trends/blob/main/Statistics.png)
+- [Raw Data](https://github.com/javxks1/US-Migration-Trends/blob/main/Raw%20Data.png)
